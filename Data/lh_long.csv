@@ -1,0 +1,46 @@
+Pairs,LH_Stage,Value
+"[DD,DD]",Infancy,0.0899
+"[DD,EF]",Infancy,0.0172
+"[DD,LBB]",Infancy,-0.0264
+"[DD,LBL]",Infancy,-0.0916
+"[DD,OSS]",Infancy,0.0052
+"[EF,EF]",Infancy,0.0378
+"[EF,LBB]",Infancy,0.0137
+"[EF,LBL]",Infancy,-0.1159
+"[EF,OSS]",Infancy,0.0873
+"[LBB,LBB]",Infancy,0.4762
+"[LBB,LBL]",Infancy,0.3416
+"[LBB,OSS]",Infancy,0.1845
+"[LBL,LBL]",Infancy,0.9961
+"[LBL,OSS]",Infancy,0.1481
+"[OSS,OSS]",Infancy,0.58
+"[DD,DD]",Childhood,0.1171
+"[DD,EF]",Childhood,0.0028
+"[DD,LBB]",Childhood,-0.0093
+"[DD,LBL]",Childhood,0.0285
+"[DD,OSS]",Childhood,0.0316
+"[EF,EF]",Childhood,0.0178
+"[EF,LBB]",Childhood,-0.0103
+"[EF,LBL]",Childhood,-0.0278
+"[EF,OSS]",Childhood,0.031
+"[LBB,LBB]",Childhood,0.3849
+"[LBB,LBL]",Childhood,0.4278
+"[LBB,OSS]",Childhood,0.1642
+"[LBL,LBL]",Childhood,0.9161
+"[LBL,OSS]",Childhood,0.3076
+"[OSS,OSS]",Childhood,0.2319
+"[DD,DD]",Juvenile & Adolescence,0.2193
+"[DD,EF]",Juvenile & Adolescence,0.0325
+"[DD,LBB]",Juvenile & Adolescence,0.0029
+"[DD,LBL]",Juvenile & Adolescence,0.0784
+"[DD,OSS]",Juvenile & Adolescence,0.0474
+"[EF,EF]",Juvenile & Adolescence,0.5221
+"[EF,LBB]",Juvenile & Adolescence,-0.0018
+"[EF,LBL]",Juvenile & Adolescence,0.005
+"[EF,OSS]",Juvenile & Adolescence,0.0975
+"[LBB,LBB]",Juvenile & Adolescence,0.2447
+"[LBB,LBL]",Juvenile & Adolescence,0.1617
+"[LBB,OSS]",Juvenile & Adolescence,0.0086
+"[LBL,LBL]",Juvenile & Adolescence,0.5731
+"[LBL,OSS]",Juvenile & Adolescence,0.0848
+"[OSS,OSS]",Juvenile & Adolescence,0.0115

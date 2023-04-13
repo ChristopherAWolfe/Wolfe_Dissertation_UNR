@@ -1,0 +1,46 @@
+Module Pairs,Model,Value
+"[DD,DD]",Male,0.2402
+"[DD,EF]",Male,0.0818
+"[DD,LBB]",Male,0.0143
+"[DD,LBL]",Male,0.1028
+"[DD,OSS]",Male,0.0974
+"[EF,EF]",Male,0.4685
+"[EF,LBB]",Male,0.0427
+"[EF,LBL]",Male,-0.057
+"[EF,OSS]",Male,0.1521
+"[LBB,LBB]",Male,0.342
+"[LBB,LBL]",Male,0.2562
+"[LBB,OSS]",Male,0.1701
+"[LBL,LBL]",Male,0.9529
+"[LBL,OSS]",Male,0.2793
+"[OSS,OSS]",Male,0.4532
+"[DD,DD]",Female,0.2049
+"[DD,EF]",Female,0.0032
+"[DD,LBB]",Female,0.0073
+"[DD,LBL]",Female,0.1068
+"[DD,OSS]",Female,0.0547
+"[EF,EF]",Female,0.3192
+"[EF,LBB]",Female,0.0267
+"[EF,LBL]",Female,-0.0599
+"[EF,OSS]",Female,0.081
+"[LBB,LBB]",Female,0.3402
+"[LBB,LBL]",Female,0.2144
+"[LBB,OSS]",Female,0.1377
+"[LBL,LBL]",Female,0.9439
+"[LBL,OSS]",Female,0.3939
+"[OSS,OSS]",Female,0.5014
+"[DD,DD]",Full Model,0.3041
+"[DD,EF]",Full Model,0.0931
+"[DD,LBB]",Full Model,-0.0018
+"[DD,LBL]",Full Model,0.1073
+"[DD,OSS]",Full Model,0.1289
+"[EF,EF]",Full Model,0.5366
+"[EF,LBB]",Full Model,0.0294
+"[EF,LBL]",Full Model,-0.0004
+"[EF,OSS]",Full Model,0.3273
+"[LBB,LBB]",Full Model,0.3531
+"[LBB,LBL]",Full Model,0.2208
+"[LBB,OSS]",Full Model,0.1162
+"[LBL,LBL]",Full Model,0.951
+"[LBL,OSS]",Full Model,0.3559
+"[OSS,OSS]",Full Model,0.6386
