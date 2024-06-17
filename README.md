@@ -1,4 +1,4 @@
-# Mixed-Discrete-Continuous-Gaussian-Copula
+# Wolfe Dissertation
 
 This github repository provides the data and code to reproduce the results from my doctoral dissertation entitled: *Beyond a Company of Soldiers: Exploring Phenotypic Integration across the Multivariate Human Growth and Development Phenotype* submitted to the University of Nevada, Reno in May 2023. 
 
